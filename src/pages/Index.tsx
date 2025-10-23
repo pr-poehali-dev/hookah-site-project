@@ -386,7 +386,7 @@ const Index = () => {
             </Card>
           </div>
         </div>
-      </footer>
+      </section>
 
       <footer className="bg-card border-t py-12 px-4">
         <div className="container mx-auto text-center">
